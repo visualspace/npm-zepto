@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # Build specific modules
-export MODULES="zepto event deferred callbacks touch ajax"
+export MODULES="zepto event deferred callbacks touch ajax fx fx_methods"
 
 cd zepto
 npm install
